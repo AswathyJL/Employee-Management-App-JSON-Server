@@ -1,0 +1,32 @@
+{
+  "allEmployees": [
+    {
+      "employeeId": "896",
+      "employeeName": "Ria",
+      "employeeEmail": "ria@gmail.com",
+      "employeeStatus": "Active",
+      "id": 10
+    },
+    {
+      "employeeId": "101",
+      "employeeName": "Peter John",
+      "employeeEmail": "peterjohn23@gmail.com",
+      "employeeStatus": "Inactive",
+      "id": 11
+    },
+    {
+      "employeeId": "523",
+      "employeeName": "Thomas Mathew",
+      "employeeEmail": "thomasthoma@gmail.com",
+      "employeeStatus": "Active",
+      "id": 12
+    },
+    {
+      "employeeId": "456",
+      "employeeName": "Ria Jacob",
+      "employeeEmail": "riaria@gmail.com",
+      "employeeStatus": "Active",
+      "id": 13
+    }
+  ]
+}
